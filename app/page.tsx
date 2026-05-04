@@ -17,12 +17,12 @@ export default function Home() {
     'pic7.jpg',
     'pic9.jpg',
     'pic10.jpg',
-    'pic5.jpg',
-    'pic1.jpg',
-    'pic7.jpg',
-    'pic1.jpg',
     'pic2.jpg',
-    'pic5.jpg',
+    'pic8.jpg',
+    'pic7.jpg',
+    'pic3.jpg',
+    'pic2.jpg',
+    'pic10.jpg',
   ];
 
   return (
