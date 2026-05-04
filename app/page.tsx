@@ -15,13 +15,13 @@ export default function Home() {
     'pic5.jpg',
     'pic6.jpg',
     'pic7.jpg',
-    'pic8.jpg',
+    'pic9.jpg',
+    'pic10.jpg',
+    'pic5.jpg',
     'pic1.jpg',
-    'pic6.jpg',
+    'pic7.jpg',
     'pic1.jpg',
     'pic2.jpg',
-    'pic6.jpg',
-    'pic4.jpg',
     'pic5.jpg',
   ];
 
